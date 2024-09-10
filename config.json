@@ -1,0 +1,7 @@
+{
+  "fourcc": "mp4v",
+  "date_time_fmt": "%Y%m%d_%H%M%S",
+  "mp4_filename_fmt": "enhanced_capture_%s.mp4",
+  "png_filename_fmt": "enhanced_capture_%s.png",
+  "vidcap_camera_index": 0
+}
